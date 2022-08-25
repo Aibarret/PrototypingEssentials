@@ -59,6 +59,6 @@ sysinfo.txt
 crashlytics-build.properties
 
 Thumbs.db
-FinalProject/Library/
-FinalProject/Temp/
-FinalProject/Logs/
+PrototypingEssentials/Library/
+PrototypingEssentials/Temp/
+PrototypingEssentials/Logs/
